@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$model"		 "1"
+	"$basetexture"		"models/train/euro/c_stock_ct/glass"
+	"%compilepassbullets" 1
+	"$translucent" 1
+	"$surfaceprop" "glass"
+	"$reflectentities" 1
+	"$reflecttexture" "_rt_WaterReflection" 
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ 1.0 1.0 1.0 ]"
+	"$model" 1
+	"$halflambert" 1
+}
