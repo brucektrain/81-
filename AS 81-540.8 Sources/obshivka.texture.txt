@@ -1,0 +1,3 @@
+Primary=obshivka.jpg
+Tile=st
+Hint=dynamic

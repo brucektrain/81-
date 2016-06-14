@@ -1,0 +1,2 @@
+Primary=rama.jpg
+Tile=st

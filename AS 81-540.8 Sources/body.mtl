@@ -1,0 +1,239 @@
+newmtl material__64m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd obshivka.jpg
+
+newmtl material__83m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd salon.jpg
+
+newmtl material__286m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd sredn-seryj.jpg
+
+newmtl material__610m.notex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+
+newmtl material__107m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd door.jpg
+
+newmtl material__95m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd KZN.jpg
+
+newmtl material__63m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd rama.jpg
+
+newmtl material__1102m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd reklama.jpg
+
+newmtl material__51m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd gofr.jpg
+
+newmtl material__363m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd metro_window.bmp
+
+newmtl material__667m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd lamps.jpg
+
+newmtl material__66m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd krisha.jpg
+
+newmtl material__1056m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd krasn2.jpg
+
+newmtl material__39m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd korpus.jpg
+
+newmtl material__1055m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd krasn.jpg
+
+newmtl material__1267m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd pol.jpg
+
+newmtl material__287m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd fara1.jpg
+
+newmtl material__68m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd cherpak.jpg
+
+newmtl material__408m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd svetl-seryj.jpg
+
+newmtl 15_-_defaultm.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd stsepka.jpg
+
+newmtl material__272m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd stsepka3.jpg
+
+newmtl material__271m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd stsepka2.jpg
+
+newmtl material__442m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd krasnij.bmp
+
+newmtl material__323m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd fara2.jpg
+
+newmtl material__1260m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd lamps_1.jpg
+
+newmtl material__1268m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd map.jpg
+
+newmtl material__1172m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd morda.jpg
+
+newmtl material__1172m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd morda.jpg
+
+newmtl material__65m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd sid.jpg
+
+newmtl material__65m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd sid.jpg
+

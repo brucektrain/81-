@@ -1,0 +1,3 @@
+Primary=morda.jpg
+Tile=st
+Hint=dynamic

@@ -1,0 +1,2 @@
+Primary=pol.jpg
+Tile=st

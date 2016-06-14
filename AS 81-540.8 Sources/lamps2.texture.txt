@@ -1,0 +1,3 @@
+Primary=lamps2.jpg
+Tile=st
+Hint=dynamic

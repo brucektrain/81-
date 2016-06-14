@@ -1,0 +1,3 @@
+Primary=door.jpg
+Alpha=door.jpg
+Tile=st

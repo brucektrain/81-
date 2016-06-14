@@ -1,0 +1,276 @@
+﻿
+kuid                                    <kuid:574312:1111>
+category-class                          "AC"
+category-region-0                       "RU"
+category-era-0                          "2000s"
+category-era-1                          "2010s"
+
+obsolete-table
+{
+}
+
+mesh-table
+{
+  default
+  {
+    mesh                                "body.IM"
+    auto-create                         1
+    
+    effects
+    {
+      0
+      {
+        kind                            "name"
+        fontsize                        0.09
+        fontcolor                       0,0,0
+        att                             "a.nr1"
+      }
+      
+      4
+      {
+        kind                            "name"
+        fontsize                        0.12
+        fontcolor                       255,255,255
+        att                             "a.nr4"
+      }
+      
+      number01
+      {
+        kind                            "name"
+        fontsize                        0.125
+        fontcolor                       255,255,255
+        att                             "a.name1"
+        name                            "name"
+      }
+      
+      number02
+      {
+        kind                            "name"
+        fontsize                        0.125
+        fontcolor                       255,255,255
+        att                             "a.name0"
+        name                            "name"
+      }
+      
+      number03
+      {
+        kind                            "name"
+        fontsize                        0.07
+        fontcolor                       0,0,95
+        att                             "a.name2"
+        name                            "name"
+      }
+      
+      number04
+      {
+        kind                            "name"
+        fontsize                        0.07
+        fontcolor                       0,0,95
+        att                             "a.name3"
+        name                            "name"
+      }
+    }
+  }
+  
+  left-passenger-door
+  {
+    mesh                                "doors_left.im"
+    anim                                "doors_left.kin"
+    auto-create                         1
+    att                                 "a.doors"
+    att-parent                          "default"
+  }
+  
+  right-passenger-door
+  {
+    mesh                                "doors_right.im"
+    anim                                "doors_right.kin"
+    auto-create                         1
+    att                                 "a.doors"
+    att-parent                          "default"
+  }
+}
+
+queues
+{
+  load0
+  {
+    passenger-queue                     1
+    size                                128
+    initial-count                       0
+    product-kuid                        <kuid:-3:10060>
+    
+    attachment-points
+    {
+      0                                 "a.passit00"
+      1                                 "a.passit01"
+      2                                 "a.passit02"
+      3                                 "a.passit03"
+      4                                 "a.passit04"
+      5                                 "a.passit05"
+      6                                 "a.passit06"
+      7                                 "a.passit07"
+      8                                 "a.passit08"
+      9                                 "a.passit09"
+      10                                "a.passit10"
+      11                                "a.passit11"
+      12                                "a.passit12"
+      13                                "a.passit13"
+      14                                "a.passit14"
+      15                                "a.passit15"
+      16                                "a.passit16"
+      17                                "a.passit17"
+      18                                "a.passit18"
+      19                                "a.passit19"
+      20                                "a.passit20"
+      21                                "a.passit21"
+      22                                "a.passit22"
+      23                                "a.passit23"
+      24                                "a.passit24"
+      25                                "a.passit25"
+      26                                "a.passit26"
+      27                                "a.passit27"
+      28                                "a.passit28"
+      29                                "a.passit29"
+      30                                "a.passit30"
+      31                                "a.passit31"
+      32                                "a.passit32"
+      33                                "a.passit33"
+      34                                "a.passit34"
+      35                                "a.passit35"
+      36                                "a.passit36"
+      37                                "a.passit37"
+      38                                "a.passit38"
+      39                                "a.passit39"
+      40                                "a.passit40"
+      41                                "a.passit41"
+      42                                "a.passtand06"
+      43                                "a.passtand07"
+      44                                "a.passtand08"
+      45                                "a.passtand09"
+      46                                "a.passtand10"
+      47                                "a.passtand11"
+      48                                "a.passtand12"
+      49                                "a.passtand13"
+      50                                "a.passtand14"
+      51                                "a.passtand15"
+      52                                "a.passtand16"
+      53                                "a.passtand17"
+      54                                "a.passtand18"
+      55                                "a.passtand19"
+      56                                "a.passtand20"
+      57                                "a.passtand21"
+      58                                "a.passtand22"
+      59                                "a.passtand23"
+      60                                "a.passtand24"
+      61                                "a.passtand25"
+      62                                "a.passtand26"
+      63                                "a.passtand27"
+      64                                "a.passtand28"
+      65                                "a.passtand29"
+      66                                "a.passtand30"
+      67                                "a.passtand31"
+      68                                "a.passtand32"
+      69                                "a.passtand33"
+      70                                "a.passtand34"
+      71                                "a.passtand35"
+      72                                "a.passtand36"
+      73                                "a.passtand37"
+      74                                "a.passtand38"
+      75                                "a.passtand39"
+      76                                "a.passtand40"
+      77                                "a.passtand41"
+      78                                "a.passtand42"
+      79                                "a.passtand43"
+      80                                "a.passtand44"
+      81                                "a.passtand45"
+      82                                "a.passtand46"
+      83                                "a.passtand47"
+      84                                "a.passtand48"
+      85                                "a.passtand49"
+      86                                "a.passtand50"
+      87                                "a.passtand51"
+      88                                "a.passtand52"
+      89                                "a.passtand53"
+      90                                "a.passtand54"
+      91                                "a.passtand55"
+      92                                "a.passtand56"
+      93                                "a.passtand57"
+      94                                "a.passtand58"
+      95                                "a.passtand59"
+      96                                "a.passtand60"
+      97                                "a.passtand61"
+      98                                "a.passtand62"
+      99                                "a.passtand63"
+      100                               "a.passtand64"
+      101                               "a.passtand65"
+      102                               "a.passtand66"
+      103                               "a.passtand67"
+      104                               "a.passtand68"
+      105                               "a.passtand69"
+      106                               "a.passtand70"
+      107                               "a.passtand71"
+      108                               "a.passtand72"
+      109                               "a.passtand73"
+      110                               "a.passtand00"
+      111                               "a.passtand01"
+      112                               "a.passtand02"
+      113                               "a.passtand03"
+      114                               "a.passtand04"
+      115                               "a.passtand05"
+      116                               "a.passtand74"
+      117                               "a.passtand75"
+      118                               "a.passtand76"
+      119                               "a.passtand77"
+      120                               "a.passtand78"
+      121                               "a.passtand79"
+      122                               "a.passtand80"
+      123                               "a.passtand81"
+      124                               "a.passtand82"
+      125                               "a.passtand83"
+      126                               "a.passtand84"
+      127                               "a.passtand85"
+    }
+    
+    allowed-products
+    {
+      0                                 <kuid:-3:10060>
+    }
+  }
+}
+fonts                                   1
+
+running-numbers
+{
+}
+asset-filename                          "81-717"
+script                                  "tramkier"
+class                                   "Kier"
+bogey                                   <kuid:425568:8171700>
+engine                                  1
+origin                                  "RU"
+company                                 "MM"
+enginespec                              <kuid:407033:81717>
+enginesound                             <kuid:350301:8174012>
+interior                                <kuid:987654:1>
+hornsound                               <kuid:313261:81717>
+trainz-build                            2
+mass                                    34000
+description                             
+kind                                    "traincar"
+username                                "AS 81-540.8"
+author                                  "Alex-s307"
+organisation                            "MetroRus"
+contact-email                           "windowoz@live.ru"
+contact-website                         "http://metrorus.ru"
+license                                 "Free for private use."
+
+kuid-table
+{
+  0                                     <kuid:425568:8171700>
+  1                                     <kuid:407033:81717>
+  2                                     <kuid:350301:8174012>
+  3                                     <kuid:987654:1>
+  4                                     <kuid:313261:81717>
+  5                                     <kuid:-3:10060>
+}

@@ -1,0 +1,2 @@
+Primary=svetl-seryj.jpg
+Tile=st

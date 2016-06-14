@@ -1,0 +1,3 @@
+Primary=fara2.jpg
+Tile=st
+Hint=dynamic

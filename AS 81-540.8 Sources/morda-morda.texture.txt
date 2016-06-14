@@ -1,0 +1,2 @@
+Primary=morda.jpg
+Tile=st

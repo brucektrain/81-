@@ -1,0 +1,2 @@
+Primary=obshivka.jpg
+Tile=st

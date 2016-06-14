@@ -1,0 +1,4 @@
+Primary=reklama.jpg
+Alpha=reklama_alfa.jpg
+Tile=st
+Hint=dynamic

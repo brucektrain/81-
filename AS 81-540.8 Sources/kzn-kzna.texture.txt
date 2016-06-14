@@ -1,0 +1,4 @@
+Primary=KZN.jpg
+Alpha=KZNa.jpg
+Hint=dynamic
+Tile=st
