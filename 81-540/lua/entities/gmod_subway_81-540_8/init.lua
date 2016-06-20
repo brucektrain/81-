@@ -9,7 +9,7 @@ function ENT:Initialize()
 	-- Defined train information
 	self.SubwayTrain = {
 		Type = "540",
-		Name = "81-540.1",
+		Name = "81-540.8",
 	    WagType = 1,
 	}
 
