@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	"$model"		 "1"
+	"$basetexture"	"models/train/russian/81-540_7/door"
+	"$alphatest"      1
+	"$surfaceprop" "Metal"
+	"$envmap" "env_cubemap"
+$envmapcontrast ".2"
+$envmaptint "[ .2 .2 .2 ]"
+$envmapsaturation ".1"
+	$halflambert 1
+	$nodecal 1
+
+	$phong 1
+//	$phongexponent 33
+	$phongboost	6
+	$phongfresnelranges	"[0.05 0.5 1]"
+}
