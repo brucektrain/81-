@@ -1,0 +1,176 @@
+newmtl _body_57EB3925_material__39_m.onetex
+Ka 0.921569 0.921569 0.921569
+Kd 0.588000 0.588000 0.588000
+Ks 0.900000 0.900000 0.900000
+illum 2
+Ns 0.100000
+map_Kd korpus.jpg
+
+newmtl _body_C80F416F_material__66_m.onetex
+Ka 0.921569 0.921569 0.921569
+Kd 0.588000 0.588000 0.588000
+Ks 0.900000 0.900000 0.900000
+illum 2
+Ns 0.100000
+map_Kd krisha.jpg
+
+newmtl _body_7536D0B3_material__83_m.onetex
+Ka 0.980392 0.980392 0.980392
+Kd 0.588000 0.588000 0.588000
+Ks 0.900000 0.900000 0.900000
+illum 2
+Ns 0.100000
+map_Kd salon.jpg
+
+newmtl _body_7581B287_material__95_m.onetex
+Ka 0.843137 0.843137 0.843137
+Kd 0.588000 0.588000 0.588000
+Ks 0.900000 0.900000 0.900000
+illum 2
+Ns 0.100000
+map_Kd pol.jpg
+
+newmtl _body_22B6AC7E_material__63_m.onetex
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.900000 0.900000 0.900000
+illum 2
+Ns 0.100000
+map_Kd rama.jpg
+
+newmtl _body_FAF3DB32_material__51_m.onetex
+Ka 0.921569 0.921569 0.921569
+Kd 0.588000 0.588000 0.588000
+Ks 0.900000 0.900000 0.900000
+illum 2
+Ns 0.100000
+map_Kd gofr.jpg
+
+newmtl _body_1C0D59B6_material__82_m.onetex
+Ka 0.843137 0.843137 0.843137
+Kd 0.588000 0.588000 0.588000
+Ks 0.900000 0.900000 0.900000
+illum 2
+Ns 0.100000
+map_Kd morda.jpg
+
+newmtl _body_3520A261_material__64_m.onetex
+Ka 0.843137 0.843137 0.843137
+Kd 0.588000 0.588000 0.588000
+Ks 0.900000 0.900000 0.900000
+illum 2
+Ns 0.100000
+map_Kd obshivka.jpg
+
+newmtl _body_72C10A22_material__69_m.onetex
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.900000 0.900000 0.900000
+illum 2
+Ns 0.100000
+map_Kd morda.jpg
+
+newmtl _body_9EE33C64_16_-_default2_m.onetex
+Ka 0.588235 0.588235 0.588235
+Kd 0.588235 0.588235 0.588235
+Ks 0.900000 0.900000 0.900000
+illum 2
+Ns 0.100000
+map_Kd metro_window.bmp
+
+newmtl _body_B198798A_material__274_m.onetex
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.900000 0.900000 0.900000
+illum 2
+Ns 0.100000
+map_Kd sredn-seryj.jpg
+
+newmtl _body_46DA29BC_material__539_m.onetex
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.900000 0.900000 0.900000
+illum 2
+Ns 0.100000
+map_Kd svetl-seryj.jpg
+
+newmtl _body_D8BB1A17_material__182_m.onetex
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.900000 0.900000 0.900000
+illum 2
+Ns 0.100000
+map_Kd podvag2.jpg
+
+newmtl _body_5607168E_material__766_m.onetex
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.900000 0.900000 0.900000
+illum 2
+Ns 0.100000
+map_Kd stsepka3.jpg
+
+newmtl _body_C870EFC4_15_-_default_m.onetex
+Ka 0.588235 0.588235 0.588235
+Kd 0.588235 0.588235 0.588235
+Ks 0.900000 0.900000 0.900000
+illum 2
+Ns 0.100000
+map_Kd stsepka.jpg
+
+newmtl _body_76BBA18C_material__990_m.onetex
+Ka 0.901961 0.901961 0.901961
+Kd 0.588000 0.588000 0.588000
+Ks 0.900000 0.900000 0.900000
+illum 2
+Ns 0.100000
+map_Kd fara1.jpg
+
+newmtl _body_66D25EBB_material__68_m.onetex
+Ka 0.921569 0.921569 0.921569
+Kd 0.588000 0.588000 0.588000
+Ks 0.900000 0.900000 0.900000
+illum 2
+Ns 0.100000
+map_Kd cherpak.jpg
+
+newmtl _body_D494A25F_material__1201_m.onetex
+Ka 0.980392 0.980392 0.980392
+Kd 0.588000 0.588000 0.588000
+Ks 0.900000 0.900000 0.900000
+illum 2
+Ns 0.100000
+map_Kd reklama.jpg
+
+newmtl _body_607C9C11_material__65_m.onetex
+Ka 0.882353 0.882353 0.882353
+Kd 0.588000 0.588000 0.588000
+Ks 0.900000 0.900000 0.900000
+illum 2
+Ns 0.100000
+map_Kd sid.jpg
+
+newmtl _body_826215AE_material__2346_m.onetex
+Ka 0.882353 0.882353 0.882353
+Kd 0.588000 0.588000 0.588000
+Ks 0.900000 0.900000 0.900000
+illum 2
+Ns 0.100000
+map_Kd sid2.jpg
+
+newmtl _body_EEC8C94E_material__2347_m.onetex
+Ka 0.843137 0.843137 0.843137
+Kd 0.588000 0.588000 0.588000
+Ks 0.900000 0.900000 0.900000
+illum 2
+Ns 0.100000
+map_Kd krasn2.jpg
+
+newmtl _body_1B8F81D1_material__617_m.onetex
+Ka 0.980392 0.980392 0.980392
+Kd 0.588000 0.588000 0.588000
+Ks 0.900000 0.900000 0.900000
+illum 2
+Ns 0.100000
+map_Kd lamps.jpg
+

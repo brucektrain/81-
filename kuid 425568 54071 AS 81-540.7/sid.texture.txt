@@ -1,0 +1,3 @@
+Primary=sid.jpg
+Tile=st
+Hint=dynamic

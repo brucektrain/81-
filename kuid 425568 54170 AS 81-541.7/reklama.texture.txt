@@ -1,0 +1,3 @@
+Primary=reklama.jpg
+Tile=st
+Hint=dynamic

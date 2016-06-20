@@ -1,0 +1,3 @@
+Primary=gofr.jpg
+Tile=st
+Hint=dynamic

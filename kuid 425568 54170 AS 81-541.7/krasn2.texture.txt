@@ -1,0 +1,2 @@
+Primary=krasn2.jpg
+Tile=st

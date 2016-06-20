@@ -1,0 +1,312 @@
+newmtl _doors_right_A1BB5ECA_material__108_m.notex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+
+newmtl _doors_right_4BE33CF5_material__63_m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd rama.jpg
+
+newmtl _doors_right_28C2FCC5_material__107_m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd door.jpg
+
+newmtl _doors_right_E377B507_material__756_m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd rama.jpg
+
+newmtl _doors_right_4B062030_material__363_m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd metro_window.bmp
+
+newmtl _doors_right_1FA5CADB_material__108_m.notex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+
+newmtl _doors_right_48330BB7_material__63_m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd rama.jpg
+
+newmtl _doors_right_57FB743F_material__107_m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd door.jpg
+
+newmtl _doors_right_7721A2FF_material__755_m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd rama.jpg
+
+newmtl _doors_right_6D7AA74_material__363_m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd metro_window.bmp
+
+newmtl _doors_right_43000BCF_material__108_m.notex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+
+newmtl _doors_right_53A1A8B4_material__63_m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd rama.jpg
+
+newmtl _doors_right_3925DB1D_material__107_m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd door.jpg
+
+newmtl _doors_right_6F273152_material__752_m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd rama.jpg
+
+newmtl _doors_right_C0DD0A6B_material__363_m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd metro_window.bmp
+
+newmtl _doors_right_BE14FF65_material__108_m.notex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+
+newmtl _doors_right_62103C42_material__63_m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd rama.jpg
+
+newmtl _doors_right_F94B1790_material__107_m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd door.jpg
+
+newmtl _doors_right_212EF81B_material__754_m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd rama.jpg
+
+newmtl _doors_right_F99BAED0_material__363_m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd metro_window.bmp
+
+newmtl _doors_right_C0FF6854_material__108_m.notex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+
+newmtl _doors_right_7B3F180D_material__63_m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd rama.jpg
+
+newmtl _doors_right_7F2D13B9_material__107_m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd door.jpg
+
+newmtl _doors_right_272362F7_material__751_m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd rama.jpg
+
+newmtl _doors_right_C749739B_material__363_m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd metro_window.bmp
+
+newmtl _doors_right_6415B188_material__108_m.notex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+
+newmtl _doors_right_EE80805D_material__63_m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd rama.jpg
+
+newmtl _doors_right_17EB6AFB_material__107_m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd door.jpg
+
+newmtl _doors_right_777EBF1D_material__753_m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd rama.jpg
+
+newmtl _doors_right_32C5A2C4_material__363_m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd metro_window.bmp
+
+newmtl _doors_right_97AB4493_material__108_m.notex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+
+newmtl _doors_right_B649B1A7_material__63_m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd rama.jpg
+
+newmtl _doors_right_86845CE5_material__107_m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd door.jpg
+
+newmtl _doors_right_A48BEBBA_material__750_m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd rama.jpg
+
+newmtl _doors_right_6FA9884E_material__363_m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd metro_window.bmp
+
+newmtl _doors_right_3D2BC50A_material__108_m.notex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+
+newmtl _doors_right_1295C1B0_material__63_m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd rama.jpg
+
+newmtl _doors_right_314B8BA8_material__107_m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd door.jpg
+
+newmtl _doors_right_956BC44C_material__747_m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd rama.jpg
+
+newmtl _doors_right_7340722_material__363_m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd metro_window.bmp
+

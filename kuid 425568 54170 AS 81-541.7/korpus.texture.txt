@@ -1,0 +1,3 @@
+Primary=korpus.jpg
+Tile=st
+Hint=dynamic

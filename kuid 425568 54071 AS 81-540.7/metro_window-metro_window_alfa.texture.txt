@@ -1,0 +1,3 @@
+Primary=metro_window.bmp
+Alpha=metro_window_alfa.bmp
+Tile=st

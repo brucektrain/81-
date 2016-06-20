@@ -1,0 +1,3 @@
+Primary=stsepka3.jpg
+Tile=st
+Hint=dynamic

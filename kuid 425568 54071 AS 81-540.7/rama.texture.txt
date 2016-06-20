@@ -1,0 +1,3 @@
+Primary=rama.jpg
+Tile=st
+Hint=dynamic

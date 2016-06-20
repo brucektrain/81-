@@ -1,0 +1,4 @@
+Primary=stsepka.jpg
+Alpha=stsepka_alfa.jpg
+Tile=st
+Hint=dynamic

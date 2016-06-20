@@ -1,0 +1,2 @@
+Primary=sredn-seryj.jpg
+Tile=st

@@ -1,0 +1,2 @@
+Primary=lamps3.jpg
+Tile=st
