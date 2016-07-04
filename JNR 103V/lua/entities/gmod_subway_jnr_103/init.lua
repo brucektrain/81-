@@ -39,7 +39,6 @@ function ENT:Initialize()
 		[KEY_S] = "Brake", 
 		[KEY_R] = "Reverse",
 		[KEY_L] = "HornEngage",
-		[KEY_BACKSPACE] = "EmergencyBrake",
 		}
 	
 end
