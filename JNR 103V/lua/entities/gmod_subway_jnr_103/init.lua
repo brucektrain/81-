@@ -10,7 +10,6 @@ function ENT:Initialize()
 	self.SubwayTrain = {
 		Type = "JNR_103",
 		Name = "JNR 103",
-	    WagType = 1,
 	}
 
 	-- Set model and initialize
@@ -23,9 +22,9 @@ function ENT:Initialize()
 	self.InstructorsSeat = self:CreateSeat("instructor",Vector(435,-40,75))
 
 	-- Hide seats
-	self.DriverSeat:SetColor(Color(0,0,0,0))
+	self.DriverSeat:SetColor(Color(255,255,255,255))
 	self.DriverSeat:SetRenderMode(RENDERMODE_TRANSALPHA)
-	self.InstructorsSeat:SetColor(Color(0,0,0,0))
+	self.InstructorsSeat:SetColor(Color(255,255,255,255))
 	self.InstructorsSeat:SetRenderMode(RENDERMODE_TRANSALPHA)
 
 	
@@ -44,6 +43,10 @@ function ENT:Initialize()
 end
 
 	
+	function ENT:Think()
+   	local retVal = self.BaseClass.Think(self)
+		
+		
 		-- Generate bogey sounds
 	local jerk = math.abs((self.Acceleration - (self.PrevAcceleration or 0)) / self.DeltaTime)
 	self.PrevAcceleration = self.Acceleration
@@ -62,28 +65,25 @@ end
 		end
 	end
 
---------------------------------------------------------------------------------
-function ENT:Think()
-	local retVal = self.BaseClass.Think(self)
-	return retVal
-end
 
---------------------------------------------------------------------------------
-
+	-- RUT test
+	local weightRatio = 2.00*math.max(0,math.min(1,(self:GetNW2Float("PassengerCount",0)/300)))
+	if math.abs(self:GetAngles().pitch) > 2.5 then weightRatio = weightRatio + 1.00 end
+	self.YAR_13A:TriggerInput("WeightLoadRatio",math.max(0,math.min(2.50,weightRatio)))
 	-- Exchange some parameters between engines, pneumatic system, and real world
 	self.Engines:TriggerInput("Speed",self.Speed)
 	if IsValid(self.FrontBogey) and IsValid(self.RearBogey) then
-		self.FrontBogey.MotorForce = 78500
-		self.FrontBogey.Reversed = (self.RKR.Value > 2.5)
-		self.RearBogey.MotorForce  = 78500
-		self.RearBogey.Reversed = (self.RKR.Value < 1.5)
-
+		self.FrontBogey.MotorForce = 65300
+		self.FrontBogey.Reversed = (self.RKR.Value > 0.5)
+		self.RearBogey.MotorForce  = 65300
+		self.RearBogey.Reversed = (self.RKR.Value < 0.5)
+		
 		-- These corrections are required to beat source engine friction at very low values of motor power
 		local A = 2*self.Engines.BogeyMoment
-		local P = math.max(0,1.04449 + 2.06879*math.abs(A) - 1.465729*A^2)
-		if math.abs(A) > 1.4 then P = math.abs(A) end
-		if math.abs(A) < 1.05 then P = 0 end
-		if self.Speed < 30 then P = P*(1.0 + 0.5*(10.0-self.Speed)/10.0) end
+		local P = math.max(0,0.04449 + 1.06879*math.abs(A) - 0.465729*A^2)
+		if math.abs(A) > 0.4 then P = math.abs(A) end
+		if math.abs(A) < 0.05 then P = 0 end
+		if self.Speed < 10 then P = P*(1.0 + 0.5*(10.0-self.Speed)/10.0) end
 		self.RearBogey.MotorPower  = P*0.5*((A > 0) and 1 or -1)
 		self.FrontBogey.MotorPower = P*0.5*((A > 0) and 1 or -1)
 		--self.RearBogey.MotorPower  = P*0.5
@@ -101,63 +101,10 @@ end
 		self.RearBogey.BrakeCylinderPressure = self.Pneumatic.BrakeCylinderPressure
 		self.RearBogey.BrakeCylinderPressure_dPdT = -self.Pneumatic.BrakeCylinderPressure_dPdT
 		--self.RearBogey.ParkingBrake = self.ParkingBrake.Value > 0.5
-	end
-
-
-function ENT:OnCouple(train,isfront)
-	self.BaseClass.OnCouple(self,train,isfront)
-
-	if isfront then
-		self.FrontBrakeLineIsolation:TriggerInput("Open",1.0)
-		self.FrontTrainLineIsolation:TriggerInput("Open",1.0)
-	else
-		self.RearBrakeLineIsolation:TriggerInput("Open",1.0)
-		self.RearTrainLineIsolation:TriggerInput("Open",1.0)
-	end
-end
-function ENT:OnButtonPress(button)
-	if button:find(":") then
-		button = string.Explode(":",button)[2]
-	end
-	if string.find(button,"PneumaticBrakeSet") then
-		self.Pneumatic:TriggerInput("BrakeSet",tonumber(button:sub(-1,-1)))
-		return
-	end
-	if button == "FrontDoor" then
-		self.FrontDoor = not self.FrontDoor
-		if self.FrontDoor then self:PlayOnce("door_open_tor") else self:PlayOnce("door_close_tor") end
-	end
-	if button == "RearDoor" then
-		self.RearDoor = not self.RearDoor
-		if self.RearDoor then self:PlayOnce("door_open_tor") else self:PlayOnce("door_close_tor") end
-	end
-
-	if button == "DriverValveDisconnectToggle" then
-		if self.DriverValveDisconnect.Value == 1.0 then
-			if self.Pneumatic.ValveType == 2 then
-				self:PlayOnce("pneumo_disconnect2","cabin",0.9)
-			end
-		else
-			self:PlayOnce("pneumo_disconnect1","cabin",0.9)
-		end
-		return
-	end
-	if string.find(button,"PneumaticBrakeSet") then
-		self.Pneumatic:TriggerInput("BrakeSet",tonumber(button:sub(-1,-1)))
-		return
-	end
-end
-
-function ENT:OnButtonRelease(button)
-	if button:find(":") then
-		button = string.Explode(":",button)[2]
-	end
-	if (button == "PneumaticBrakeDown") and (self.Pneumatic.DriverValvePosition == 1) then
-		self.Pneumatic:TriggerInput("BrakeSet",2)
-	end
-	if self.Pneumatic.ValveType == 1 then
-		if (button == "PneumaticBrakeUp") and (self.Pneumatic.DriverValvePosition == 5) then
-			self.Pneumatic:TriggerInput("BrakeSet",4)
 		end
 	end
+--------------------------------------------------------------------------------
+function ENT:Think()
+	local retVal = self.BaseClass.Think(self)
+	return retVal
 end

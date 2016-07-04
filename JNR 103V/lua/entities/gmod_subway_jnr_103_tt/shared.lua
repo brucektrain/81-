@@ -21,7 +21,7 @@ end
 
 function ENT:InitializeSystems()
 
-	self:LoadSystem("sys_jnr_103_system")
+	self:LoadSystem("JNR_103V_Systems")
 	self:LoadSystem("Horn")
 
 	

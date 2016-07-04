@@ -1,7 +1,7 @@
 --------------------------------------------------------------------------------
 -- Placeholder for Tatra-T3 systems
 --------------------------------------------------------------------------------
-Metrostroi.DefineSystem("C5_Systems")
+Metrostroi.DefineSystem("JNR_103V_Systems")
 TRAIN_SYSTEM.DontAccelerateSimulation = true
 
 function TRAIN_SYSTEM:Initialize()
