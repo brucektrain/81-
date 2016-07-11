@@ -16,7 +16,7 @@ $envmapsaturation "1"
 	$nodecal 1
 
 	$phong 1
-	$phongexponenttexture "models/train/russian/Type_D/b01bp"
+	$phongexponenttexture "models/train/russian/Type_D/b01bn"
 	$phongfresnelranges "[0.05 0.5 1]"
 	$phongtint "[0.83 0.83 0.83]"
 	$phongalbedotint 1
