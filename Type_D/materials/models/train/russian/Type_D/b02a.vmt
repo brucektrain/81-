@@ -9,9 +9,9 @@
 
 	$lightwarptexture "models/train/russian/Type_D/ramp_tf2"
 
-$envmapcontrast ".2"
-$envmaptint "[ .2 .2 .2 ]"
-$envmapsaturation ".1"
+$envmapcontrast "0.92"
+$envmaptint "[0.92 0.92 0.92]"
+$envmapsaturation "1"
 	$halflambert 1
 	$nodecal 1
 
