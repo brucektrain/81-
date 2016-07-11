@@ -4,8 +4,11 @@
 	"$basetexture"	"models/train/russian/Type_D/b07b"
 	"$bumpmap" 	"models/train/russian/Type_D/b01bn"
 	"$alphatest"      1
-	"$surfaceprop" "Metal"
-	"$envmap" "env_cubemap"
+	$surfaceprop Canister
+	$ssbump 1
+
+	$lightwarptexture "models/train/russian/Type_D/ramp_tf2"
+
 $envmapcontrast ".2"
 $envmaptint "[ .2 .2 .2 ]"
 $envmapsaturation ".1"
