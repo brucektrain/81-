@@ -1,0 +1,4 @@
+Primary=k_tabledoor01.tga
+Alpha=k_tabledoor01.tga
+Tile=st
+MipFilter=none

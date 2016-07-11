@@ -1,0 +1,3 @@
+Primary=b10b.jpg
+Tile=st
+MipFilter=none

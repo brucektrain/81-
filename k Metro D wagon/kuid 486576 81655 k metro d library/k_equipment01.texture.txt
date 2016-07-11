@@ -1,0 +1,2 @@
+Primary=k_equipment01.jpg
+Tile=st

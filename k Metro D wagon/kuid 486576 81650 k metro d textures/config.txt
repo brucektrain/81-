@@ -1,0 +1,178 @@
+﻿
+kuid                                    <kuid:486576:81650>
+username                                "k metro d textures"
+kind                                    "texture-group"
+category-class                          "JO"
+trainz-build                            2.9
+category-region                         "RU"
+category-era                            "2000s"
+author                                  "CyrilMax & KiriZAR"
+organisation                            "CyriTRAINZ"
+contact-website                         "http://cyritrainz.ucoz.net/"
+description                             "Текстуры для метровагонов типа Д"
+
+textures
+{
+  0                                     "None.texture"
+  1                                     "b01a.texture"
+  2                                     "b01b.texture"
+  3                                     "b02a.texture"
+  4                                     "b02b.texture"
+  5                                     "b03a.texture"
+  6                                     "b03b.texture"
+  7                                     "b04a.texture"
+  8                                     "b04b.texture"
+  9                                     "b05a.texture"
+  10                                    "b05b.texture"
+  11                                    "b06a.texture"
+  12                                    "b06b.texture"
+  13                                    "b07a.texture"
+  14                                    "b07b.texture"
+  15                                    "b08a.texture"
+  16                                    "b08b.texture"
+  17                                    "b09a.texture"
+  18                                    "b09b.texture"
+  19                                    "b10a.texture"
+  20                                    "b10b.texture"
+  21                                    "cab01.texture"
+  22                                    "cab02.texture"
+  23                                    "cab03.texture"
+  24                                    "int03.texture"
+  25                                    "int04.texture"
+}
+
+extensions
+{
+  default                               "0"
+  
+  operators
+  {
+    0
+    {
+      operator                          "по умолчанию"
+    }
+    
+    1
+    {
+      operator                          "Текстура корпуса 01"
+      livery                            "1"
+      weathered                         "2"
+      registration                      "24##"
+    }
+    
+    2
+    {
+      operator                          "Текстура корпуса 02"
+      livery                            "3"
+      weathered                         "4"
+      registration                      "23##"
+    }
+    
+    3
+    {
+      operator                          "Текстура корпуса 03"
+      livery                            "5"
+      weathered                         "6"
+      registration                      "22##"
+    }
+    
+    4
+    {
+      operator                          "Текстура корпуса 04"
+      livery                            "7"
+      weathered                         "8"
+      registration                      "21##"
+    }
+    
+    5
+    {
+      operator                          "Текстура корпуса 05"
+      livery                            "9"
+      weathered                         "10"
+      registration                      "20##"
+    }
+    
+    6
+    {
+      operator                          "Текстура корпуса 06"
+      livery                            "11"
+      weathered                         "12"
+      registration                      "8##"
+    }
+    
+    7
+    {
+      operator                          "Текстура корпуса 07"
+      livery                            "13"
+      weathered                         "14"
+      registration                      "9##"
+    }
+    
+    8
+    {
+      operator                          "Текстура корпуса 08"
+      livery                            "15"
+      weathered                         "16"
+      registration                      "22##"
+    }
+    
+    9
+    {
+      operator                          "Текстура корпуса 09"
+      livery                            "17"
+      weathered                         "18"
+      registration                      "23##"
+    }
+    
+    10
+    {
+      operator                          "Текстура корпуса 10"
+      livery                            "19"
+      weathered                         "20"
+      registration                      "24##"
+    }
+  }
+  
+  sloperators
+  {
+    0
+    {
+      sloperator                        "по умолчанию"
+    }
+    
+    1
+    {
+      sloperator                        "Текстура кабины 01"
+      salon                             "25"
+      cab                               "21"
+    }
+    
+    2
+    {
+      sloperator                        "Текстура кабины 02"
+      salon                             "24"
+      cab                               "22"
+    }
+    
+    3
+    {
+      sloperator                        "Текстура кабины 03"
+      salon                             "25"
+      cab                               "23"
+    }
+  }
+}
+
+thumbnails
+{
+  0
+  {
+    image                               "thumbnail.jpg"
+    width                               "240"
+    height                              "180"
+  }
+}
+
+kuid-table
+{
+}

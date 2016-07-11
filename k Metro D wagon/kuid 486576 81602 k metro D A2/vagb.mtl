@@ -1,0 +1,32 @@
+newmtl int.m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd k_body01.tga
+
+newmtl material__9013.m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd k_body01.tga
+
+newmtl material__9874.m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd k_body01.tga
+
+newmtl material__8314.m.onetex
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 32.00000
+map_Kd k_window01.bmp
+

@@ -1,0 +1,3 @@
+Primary=none.tga
+Alpha=none.tga
+Tile=st

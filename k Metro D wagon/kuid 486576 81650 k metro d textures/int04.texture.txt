@@ -1,0 +1,2 @@
+Primary=int03.jpg
+Tile=st

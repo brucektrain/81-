@@ -1,0 +1,34 @@
+﻿
+kuid                                    <kuid:486576:81655>
+username                                "k metro d library"
+trainz-build                            2.9
+category-class                          "HM"
+category-region                         "RU"
+category-era                            "2000s"
+kind                                    "mesh"
+author                                  "CyrilMax & KiriZAR"
+organisation                            "CyriTRAINZ"
+contact-website                         "http://cyritrainz.ucoz.net/"
+
+mesh-table
+{
+  default
+  {
+    mesh                                "equd-lod.im"
+    auto-create                         1
+  }
+}
+
+thumbnails
+{
+  0
+  {
+    image                               "thumbnail.jpg"
+    width                               "240"
+    height                              "180"
+  }
+}
+
+kuid-table
+{
+}

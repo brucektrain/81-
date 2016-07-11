@@ -1,0 +1,10 @@
+version 1.0
+offset = 0.01;
+calcPoint = center;
+multiplier = 1.0;
+renderCutOff = 0.6;
+
+mesh("1.0")
+{
+name="por.im";
+}
